@@ -37,7 +37,7 @@
 ```
 📁 Student-Performance-Predictor-EduMetrics/
 ├── 📄 student_model.py           # ML pipeline (data loading → training → evaluation)
-├── 🌐 edumetrics_platform.html   # Interactive web dashboard (standalone)
+├── 🌐 index.html                # Interactive web dashboard (standalone)
 ├── 📊 model_report.png           # Generated 8-panel visualization report
 ├── 📊 model_report (1).png       # Duplicate report (alternate run)
 ├── 📄 README.md                  # Project documentation
